@@ -25,7 +25,8 @@ Le DOT peut être aussi l'occasion d'indiquer les éventuelles difficultés renc
 
 Notez **chaque semaine** ce que vous faites et la date correspondante.
 
-- Jeudi 2 février 2023 : première séance de TIPE. Présentation des attendus.
+- Jeudi 2 février 2023 : première séance de TIPE. Présentation des attendus. Première étape creation du github. Mes premiers pas vers le 20/20... 
+- 
 -
 -
 -
