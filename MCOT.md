@@ -45,7 +45,7 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 ## Références bibliographiques (2 à 10 références)
 
 1. Optimisation de la performance en cyclisme sur piste: https://sciences2024.polytechnique.fr/static/Sciences2024/Projet-eleves/pdf/LAIGRET_cyclismepiste_affiche_sciences2024.pdf
-2. http://indexation.univ-fcomte.fr/nuxeo/site/esupversions/52502286-a1e4-4f01-8b4b-018135353473
+2. Positon et perfomance en cyclisme: http://indexation.univ-fcomte.fr/nuxeo/site/esupversions/52502286-a1e4-4f01-8b4b-018135353473
 3. 
 4. 
 5. 
