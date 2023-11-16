@@ -10,11 +10,7 @@ Bilan mécanique, cinétique, énergétique et mathématique d'une position dans
 
 1. Physique (Mécanique).
 2. Mathématiques (Analyse).
-3.
-
-- Informatique : Technologie informatiques, Informatique théorique, Informatique pratique.
-- Mathématiques : Algèbre, Analyse, Topologie & Géométrie, Probabilités, Autres domaines.
-- Physique : Physique interdisciplinaire, Physique Ondulatoire, Physique de la matière, Mécanique, Physique Théorique
+3
 
 
 ## Mots-clés (par ordre de priorité décroissante)
