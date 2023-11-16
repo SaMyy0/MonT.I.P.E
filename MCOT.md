@@ -1,5 +1,5 @@
 # Titre
-
+                        
 ## Motivations pour le choix du sujet
 Intéret pour un sport spectaluraire (positionnements, vitesses et accélérations impressionnantes) présent aux jeux olympiques mais assez peu médiatisé. 
 
