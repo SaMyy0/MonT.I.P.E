@@ -9,8 +9,8 @@ Bilan mécanique, cinétique, énergétique et mathématique d'une position dans
 ## Positionnement thématique (par ordre de priorité décroissante)
 
 1. Physique (Mécanique).
-2. Mathématiques (Analyse).
-3
+2. Mathématiques (Analyse)
+
 
 
 ## Mots-clés (par ordre de priorité décroissante)
